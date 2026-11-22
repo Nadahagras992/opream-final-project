@@ -1,0 +1,40 @@
+.role-page{
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: #FAF8FF;
+}
+
+.role-page-content{
+    background-color: #fff;
+    padding: 32px;
+    border-radius: 16px;
+    text-align: center;
+    min-width: 320px;
+}
+.role-page-title{
+    font-size: 20px;
+    margin:0 0 20px;
+}
+
+.role-page-description {
+    color: #6b7280;
+    font-size: 13px;
+    margin:0 0 20px;
+}
+
+.role-page-logout{
+    height: 40px;
+    padding: 0 24px;
+    border:0;
+    border-radius: 8px;
+    background: #FAF8FF;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+}
+.role-page-logout:hover{
+background: #FAF8FF;
+ 
+}
+
